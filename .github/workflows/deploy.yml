@@ -19,11 +19,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: 拉取 PaperMod 主题
-        run: |
-          if [ ! -d themes/PaperMod ]; then
-            git clone --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
-          fi
+
+      
 
       - name: 自动补充 frontmatter（纯文本文章自动包装）
         run: |

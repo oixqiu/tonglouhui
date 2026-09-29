@@ -1,6 +1,5 @@
 baseURL = "https://www.tonglouhui.cn/"
 title = "语音博客"
-theme = "PaperMod"
 hasCJKLanguage = true
 defaultContentLanguage = "zh"
 paginate = 10
