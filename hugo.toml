@@ -1,5 +1,5 @@
-baseURL = "https://www.tonglouhui.com/"
-title = "语音博客"
+baseURL = "https://www.tonglouhui.cn/"
+title = "同楼会"
 hasCJKLanguage = true
 defaultContentLanguage = "zh"
 paginate = 10
@@ -7,8 +7,8 @@ enableRobotsTXT = true
 
 [params]
   env = "production"
-  title = "语音博客"
-  description = "这里的每篇文章，都来自一段语音。"
+  title = "同楼会"
+  description = "这里的每篇文章，都多来自一段语音。"
   DateFormat = "2006年1月2日"
   defaultTheme = "auto"
   disableThemeToggle = false
@@ -32,7 +32,7 @@ enableRobotsTXT = true
   linkFullImages = true
 
 [params.homeInfoParams]
-  Title = "语音博客 📝"
+  Title = "同楼会 📝"
   Content = "这里的每篇文章，都来自一段语音。\n\n拿起手机，随时记录，语音自动成文。"
 
 [[params.socialIcons]]
